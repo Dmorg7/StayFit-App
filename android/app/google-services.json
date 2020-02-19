@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:368714496912:android:2deba1df80ba51b45a1115",
+        "mobilesdk_app_id": "1:368714496912:android:0c23594e2c8e95db5a1115",
         "android_client_info": {
-          "package_name": "com.example.stayfit"
+          "package_name": "com.thestayfitapp.stayfit"
         }
       },
       "oauth_client": [
