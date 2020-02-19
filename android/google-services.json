@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368714496912",
+    "firebase_url": "https://stayfit-database.firebaseio.com",
+    "project_id": "stayfit-database",
+    "storage_bucket": "stayfit-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368714496912:android:2deba1df80ba51b45a1115",
+        "android_client_info": {
+          "package_name": "com.example.stayfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368714496912-8u907s4c3k7717lsme02g44hn1n80fpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCzJewJIbodaTpNW5C7X2rahc0O9sFP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368714496912-8u907s4c3k7717lsme02g44hn1n80fpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

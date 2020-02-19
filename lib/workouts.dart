@@ -5,7 +5,7 @@ class WorkoutPage extends StatelessWidget {
     Widget build(BuildContext context) {
       return Container(
         padding: EdgeInsets.all(25.0),
-        child: Text('Workout', style: TextStyle(fontSize: 36.0),),
+        child: Text('Workouts', style: TextStyle(fontSize: 36.0),),
       );
     }
 }
